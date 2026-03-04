@@ -1,5 +1,5 @@
 <!-- Заголовок профиля -->
-<h1 align="center">My skills?</h1>
+<h1 align="center">My skills</h1>
 
 ###
 
