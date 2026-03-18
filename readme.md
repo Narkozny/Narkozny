@@ -17,7 +17,7 @@
 <!-- Социальные сети -->
 <div align="center">
   <!-- Telegram -->
-  <a href="https://t.me/dozaNarkozny" target="_blank">
+  <a href="https://t.me/Narkozny" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="telegram logo"  />
   </a>
 </div>
